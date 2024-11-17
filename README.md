@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**IshankSinghal/IshankSinghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 Hi, I'm [Ishank Singhal]! 
 
-Here are some ideas to get you started:
+<img src="https://svg-banners.vercel.app/api?type=rainbow&text=Welcome%20to%20My%20Profile&fontSize=30&width=800&height=150" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on **[Project Name](link)**
+- 🌱 Exploring **[Skill or Technology]**
+
+---
+
+### 💻 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your_username&theme=radical&no-frame=true)
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([your_linkedin_url](https://www.linkedin.com/in/ishank-singhal/))
+
+---
+
