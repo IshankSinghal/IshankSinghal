@@ -1,26 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ishank Singhal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-# 💫 Hi, I'm [Ishank Singhal]! 
+<img align = "right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw2xWjfZ8QTnNUWSmFvrCH9Z&ust=1731911915465000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiGmKbl4OKJAxUha2wGHSMyA3gQjRx6BAgAEBg"> </img>
 
-<img src="https://svg-banners.vercel.app/api?type=rainbow&text=Welcome%20to%20My%20Profile&fontSize=30&width=800&height=150" />
+[![](https://visitcount.itsvg.in/api?id=IshankSinghal&icon=2&color=10)](https://visitcount.itsvg.in)
 
-### 🚀 About Me
-- 🔭 Currently working on **[Project Name](link)**
-- 🌱 Exploring **[Skill or Technology]**
+- 📫 How to reach me **singhalishank004@gmail.com**
+
+- 📄 Know about my experiences [https://shorturl.at/dQ2Ku](https://shorturl.at/dQ2Ku)
+
+- ⚡ Fun fact **The best way to become a programmer! --Ask ChatGpt.**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ishanksinghal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishank-singhal/) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IshankSinghal&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=IshankSinghal&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshankSinghal&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IshankSinghal&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 
-### 💻 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
----
-
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your_username&theme=radical&no-frame=true)
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([your_linkedin_url](https://www.linkedin.com/in/ishank-singhal/))
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
