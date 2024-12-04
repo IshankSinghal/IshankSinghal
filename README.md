@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ishank Singhal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align = "right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/78600873-5069-4ea3-8a81-bb42305b1769)
-"> 
+<img align="right" 
+  alt="coding" 
+  width="400" 
+  style="height: 300px; border-radius: 15px;" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 [![](https://visitcount.itsvg.in/api?id=IshankSinghal&icon=2&color=10)](https://visitcount.itsvg.in)
 
@@ -13,6 +15,12 @@
 - 📄 Know about my experiences [https://shorturl.at/dQ2Ku](https://shorturl.at/dQ2Ku)
 
 - ⚡ Fun fact **The best way to become a programmer! --Ask ChatGpt.**
+
+</br>
+</br>
+</br>
+</br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ishanksinghal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishank-singhal/) 
 
