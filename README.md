@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **singhalishank004@gmail.com**
 
-- 📄 Know about my experiences [Visit my Portfolio](https://ishanksinghal-ishank-singhals-projects.vercel.app/).
+- 📄 Know about my experiences [Visit me!](https://ishanksinghal-ishank-singhals-projects.vercel.app/).
 
 - ⚡ Fun fact **The best way to become a programmer! --Ask ChatGpt.**
 
